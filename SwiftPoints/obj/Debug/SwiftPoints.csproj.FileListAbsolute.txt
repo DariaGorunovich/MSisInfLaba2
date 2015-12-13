@@ -1,0 +1,13 @@
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\bin\Debug\SwiftPoints.exe.config
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\bin\Debug\SwiftPoints.exe
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\bin\Debug\SwiftPoints.pdb
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.csprojResolveAssemblyReference.cache
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\MainWindow.baml
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\MainWindow.g.cs
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\App.g.cs
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints_MarkupCompile.cache
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.g.resources
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.Properties.Resources.resources
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.csproj.GenerateResource.Cache
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.exe
+W:\VisualSt\MSiSInf\Laba_2\SwiftPoints\SwiftPoints\obj\Debug\SwiftPoints.pdb
